@@ -1,0 +1,11 @@
+Questão 05
+
+A saída será:
+True
+True
+True
+False
+
+ex01) é true porque o conteúdo de s1 é igual ao de s2, isso só occore pq o o comparativo utilizado foi o ==, que tem a função de comparar o valor ou o conteúdo.
+
+ex02) pode ser false pq diferentemente da s1 com s2, ambos o objeto apontam para a mesma referência na memória se tornando true, já na s1 com s3, acaba sendo false pq o s3 foi alocado num lugar diferente da memória de s1 e s2, por isso o objeto ao ser apontado acabam sendo diferentes mas que possuem um mesmo conteudo.
