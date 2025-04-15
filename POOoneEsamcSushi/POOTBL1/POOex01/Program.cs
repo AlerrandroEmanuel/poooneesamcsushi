@@ -1,0 +1,16 @@
+﻿using System;
+
+class Program {
+  
+  public static void Main (string[] args) {
+    int i;
+    int j;
+    i = 10;
+    j = i;
+    j = 30;
+
+    Console.WriteLine(i);
+    Console.WriteLine(j);
+    
+  }
+}
