@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\bin\Debug\netcoreapp3.1\POOex04.exe
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\bin\Debug\netcoreapp3.1\POOex04.deps.json
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\bin\Debug\netcoreapp3.1\POOex04.runtimeconfig.json
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\bin\Debug\netcoreapp3.1\POOex04.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\bin\Debug\netcoreapp3.1\POOex04.dll
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\bin\Debug\netcoreapp3.1\POOex04.pdb
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\obj\Debug\netcoreapp3.1\POOex04.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\obj\Debug\netcoreapp3.1\POOex04.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\obj\Debug\netcoreapp3.1\POOex04.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\obj\Debug\netcoreapp3.1\POOex04.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\obj\Debug\netcoreapp3.1\POOex04.dll
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\obj\Debug\netcoreapp3.1\POOex04.pdb
+C:\Users\Usuario\Desktop\POO1\POOoneEsamcSushi\RoteiroPOO_06\POOex04\obj\Debug\netcoreapp3.1\POOex04.genruntimeconfig.cache
