@@ -1,12 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace POOex01
-{
-    class Program
+class Program{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        List<string> compras = new List<string>();
+
+        compras.Add(Console.ReadLine());
+        Console.WriteLine($"Total de itens da compra: {compras.Count}");
+        foreach (string compra in compras)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine($"- {compra}");
         }
+        compras.Remove(Console.ReadLine());
+        Console.WriteLine($"Total de itens da compra: {compras.Count}");
     }
 }

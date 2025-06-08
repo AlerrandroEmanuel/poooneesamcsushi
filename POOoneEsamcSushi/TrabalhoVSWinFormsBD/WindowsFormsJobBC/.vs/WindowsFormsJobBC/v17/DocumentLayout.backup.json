@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alunolab\\source\\repos\\WindowsFormsJobBC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B065AF1-85D8-429C-AF7F-0AAA885BD40D}|WindowsFormsJobBC\\WindowsFormsJobBC.csproj|c:\\users\\alunolab\\source\\repos\\windowsformsjobbc\\windowsformsjobbc\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B065AF1-85D8-429C-AF7F-0AAA885BD40D}|WindowsFormsJobBC\\WindowsFormsJobBC.csproj|solutionrelative:windowsformsjobbc\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B065AF1-85D8-429C-AF7F-0AAA885BD40D}|WindowsFormsJobBC\\WindowsFormsJobBC.csproj|c:\\users\\alunolab\\source\\repos\\windowsformsjobbc\\windowsformsjobbc\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B065AF1-85D8-429C-AF7F-0AAA885BD40D}|WindowsFormsJobBC\\WindowsFormsJobBC.csproj|solutionrelative:windowsformsjobbc\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B065AF1-85D8-429C-AF7F-0AAA885BD40D}|WindowsFormsJobBC\\WindowsFormsJobBC.csproj|c:\\users\\alunolab\\source\\repos\\windowsformsjobbc\\windowsformsjobbc\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B065AF1-85D8-429C-AF7F-0AAA885BD40D}|WindowsFormsJobBC\\WindowsFormsJobBC.csproj|solutionrelative:windowsformsjobbc\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B065AF1-85D8-429C-AF7F-0AAA885BD40D}|WindowsFormsJobBC\\WindowsFormsJobBC.csproj|c:\\users\\alunolab\\source\\repos\\windowsformsjobbc\\windowsformsjobbc\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B065AF1-85D8-429C-AF7F-0AAA885BD40D}|WindowsFormsJobBC\\WindowsFormsJobBC.csproj|solutionrelative:windowsformsjobbc\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\alunolab\\source\\repos\\WindowsFormsJobBC\\WindowsFormsJobBC\\Form4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsJobBC\\Form4.cs",
+              "ToolTip": "C:\\Users\\alunolab\\source\\repos\\WindowsFormsJobBC\\WindowsFormsJobBC\\Form4.cs",
+              "RelativeToolTip": "WindowsFormsJobBC\\Form4.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAowKIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:38:23.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\alunolab\\source\\repos\\WindowsFormsJobBC\\WindowsFormsJobBC\\Form4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsJobBC\\Form4.cs",
+              "ToolTip": "C:\\Users\\alunolab\\source\\repos\\WindowsFormsJobBC\\WindowsFormsJobBC\\Form4.cs [Projeto]",
+              "RelativeToolTip": "WindowsFormsJobBC\\Form4.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:38:21.657Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\alunolab\\source\\repos\\WindowsFormsJobBC\\WindowsFormsJobBC\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsJobBC\\Form2.cs",
+              "ToolTip": "C:\\Users\\alunolab\\source\\repos\\WindowsFormsJobBC\\WindowsFormsJobBC\\Form2.cs",
+              "RelativeToolTip": "WindowsFormsJobBC\\Form2.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwGcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:40:19.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\alunolab\\source\\repos\\WindowsFormsJobBC\\WindowsFormsJobBC\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsJobBC\\Form2.cs",
+              "ToolTip": "C:\\Users\\alunolab\\source\\repos\\WindowsFormsJobBC\\WindowsFormsJobBC\\Form2.cs [Projeto]",
+              "RelativeToolTip": "WindowsFormsJobBC\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:40:16.811Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
